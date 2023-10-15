@@ -9,3 +9,11 @@ Client-Server application that supports instant messaging and file transfer betw
 * server.py (server-side program)
 * client.py (client-side program)
 * medium.txt (sample text file)
+
+**Instructions**  
+In the terminal start server.py: ```python server.py```  
+In a separate terminal start client.py: ```python client.py```  
+Begin typing messages to send between client and server. Use "file" keyword to initiate a file transfer between client and server or vice-versa.
+
+**Demo Video and Source Code Walkthrough**  
+https://youtu.be/HojCBG2bhDU
